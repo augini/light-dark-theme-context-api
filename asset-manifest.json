@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/light-dark-theme-context-api/static/css/main.831484aa.chunk.css",
+    "main.js": "/light-dark-theme-context-api/static/js/main.18a1b97f.chunk.js",
+    "main.js.map": "/light-dark-theme-context-api/static/js/main.18a1b97f.chunk.js.map",
+    "runtime-main.js": "/light-dark-theme-context-api/static/js/runtime-main.262b1277.js",
+    "runtime-main.js.map": "/light-dark-theme-context-api/static/js/runtime-main.262b1277.js.map",
+    "static/js/2.2d82f91e.chunk.js": "/light-dark-theme-context-api/static/js/2.2d82f91e.chunk.js",
+    "static/js/2.2d82f91e.chunk.js.map": "/light-dark-theme-context-api/static/js/2.2d82f91e.chunk.js.map",
+    "index.html": "/light-dark-theme-context-api/index.html",
+    "precache-manifest.46212b25850004789d555df909b71155.js": "/light-dark-theme-context-api/precache-manifest.46212b25850004789d555df909b71155.js",
+    "service-worker.js": "/light-dark-theme-context-api/service-worker.js",
+    "static/css/main.831484aa.chunk.css.map": "/light-dark-theme-context-api/static/css/main.831484aa.chunk.css.map",
+    "static/js/2.2d82f91e.chunk.js.LICENSE.txt": "/light-dark-theme-context-api/static/js/2.2d82f91e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.262b1277.js",
+    "static/js/2.2d82f91e.chunk.js",
+    "static/css/main.831484aa.chunk.css",
+    "static/js/main.18a1b97f.chunk.js"
+  ]
+}
