@@ -15,7 +15,7 @@ const BookList = () => {
         <li style = {{background : theme.ui}} key = {book.id}> {book.title} </li>
       )}
       </ul>
-      <AddNewBook/>
+      <AddNewBook />
     </div>
     );
 }
